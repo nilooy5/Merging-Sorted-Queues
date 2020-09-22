@@ -1,4 +1,3 @@
-
 public class SortedQueueMerge {
 
     // This class should not be instantiated.
